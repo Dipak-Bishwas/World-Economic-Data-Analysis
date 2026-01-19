@@ -34,7 +34,7 @@ The solution reduces manual effort, improves data accuracy, and enables faster, 
 
 ## Screenshots
 *Add screenshots of dashboards or workflow visuals here*  
-![Dashboard Screenshot]([link-to-your-dashboard-image.png](https://github.com/Dipak-Bishwas/World-Economic-Data-Analysis/blob/main/dashboard.png?raw=true))
+![Dashboard Screenshot]([[link-to-your-dashboard-image.png](https://github.com/Dipak-Bishwas/World-Economic-Data-Analysis/blob/main/dashboard.png?raw=true)](https://github.com/Dipak-Bishwas/World-Economic-Data-Analysis/blob/main/dashboard.png?raw=true))
 
 
 ---
